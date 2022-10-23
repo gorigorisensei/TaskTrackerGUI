@@ -15,5 +15,15 @@ Python3 main.py
 
 #this program only supports the dark mode in MAC at the moment. Please go to your System Preferences > General to change it to Dark mode if you want the app to look normal.
 
+<h2>Basic Functionalities</h2>
+### data is saved in excel sheets so it won't be deleted even if you close out the App! 
+
+1. Add Longterm/ Short Term Goals
+
+2. Add / Complete Weekly Task list.
+<img src="images/demo.png">
+ - It lets you look at the Long-term/short-term goals you set / create a task list for each day. Once you complete a task, you just hit the complete button and it disappears from the data file. 
+ 
+
 
 <a href="https://www.buymeacoffee.com/kirito0529Q" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
