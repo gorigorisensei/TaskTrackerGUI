@@ -14,3 +14,6 @@ Python3 main.py
 
 
 #this program only supports the dark mode in MAC at the moment. Please go to your System Preferences > General to change it to Dark mode if you want the app to look normal.
+
+
+<a href="https://www.buymeacoffee.com/kirito0529Q" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
