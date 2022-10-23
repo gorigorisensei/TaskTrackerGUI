@@ -17,6 +17,8 @@ Python3 main.py
 
 <h2>Basic Functionalities</h2>
 ### data is saved in excel sheets so it won't be deleted even if you close out the App! 
+Main Menu 
+<img src="images/main_menu.png"> 
 
 1. Add Longterm/ Short Term Goals
 
