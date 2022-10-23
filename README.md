@@ -21,7 +21,7 @@ Main Menu
 <img src="images/main_menu.png"> 
 
 1. Add Longterm/ Short Term Goals
-
+<img src="images/goals.png">
 2. Add / Complete Weekly Task list.
 <img src="images/demo.png">
  - It lets you look at the Long-term/short-term goals you set / create a task list for each day. Once you complete a task, you just hit the complete button and it disappears from the data file. 
