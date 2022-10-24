@@ -12,6 +12,10 @@ How to:
 Python3 main.py
 
 
+You can also create an icon on your desktop that opens up when you click it by following steps below:
+
+1.pip3 install pyshortcut
+2.pyshortcut -n tasks APP_FOLDERPATH/main.py -d -g
 
 #this program only supports the dark mode in MAC at the moment. Please go to your System Preferences > General to change it to Dark mode if you want the app to look normal.
 
